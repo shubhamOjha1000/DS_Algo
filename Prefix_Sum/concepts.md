@@ -7,7 +7,7 @@
 <img width="900" height="666" alt="Screenshot 2025-10-13 at 10 44 09 AM" src="https://github.com/user-attachments/assets/6b12a5f6-b5dc-4a6c-b88d-4a07fdd15fed" />
 
 ##### Link to the questions:-
-https://github.com/shubhamOjha1000/DS_Algo/tree/3e58c246727a6a5b3127ff66a0ef27cf1dd81de3/Prefix_Sum/Basic%20Concept%20%E2%80%94%20Cumulative%20Thinking
+[Link](https://github.com/shubhamOjha1000/DS_Algo/tree/3e58c246727a6a5b3127ff66a0ef27cf1dd81de3/Prefix_Sum/Basic%20Concept%20%E2%80%94%20Cumulative%20Thinking)
 
 ### 2. Subarray Sum Property 
 
