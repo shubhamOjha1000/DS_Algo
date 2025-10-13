@@ -19,7 +19,13 @@
 
 ### 4. Prefix XOR (bitwise version of prefix sum)
 
+<img width="953" height="561" alt="Screenshot 2025-10-13 at 10 47 36 AM" src="https://github.com/user-attachments/assets/2f0f02b6-174c-471f-89d7-4a77cc8e782b" />
+
+
 ### 5. 2D Prefix Sum (Matrices / Grids)
+<img width="953" height="561" alt="Screenshot 2025-10-13 at 10 48 11 AM" src="https://github.com/user-attachments/assets/8508919b-b6f1-4c3e-9325-2bf1b88f4a19" />
+
+
 
 ### 6. Prefix Sum on Trees (DFS Path Sums)
 
