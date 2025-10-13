@@ -4,6 +4,8 @@
 
 ### 1. Basic Concept — Cumulative Thinking
 
+<img width="900" height="666" alt="Screenshot 2025-10-13 at 10 44 09 AM" src="https://github.com/user-attachments/assets/6b12a5f6-b5dc-4a6c-b88d-4a07fdd15fed" />
+
 ### 2. Subarray Sum Property 
 
 ### 3. Prefix Sum + Modulo (Divisibility logic)
