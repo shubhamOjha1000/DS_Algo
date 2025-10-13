@@ -29,10 +29,22 @@
 
 ### 6. Prefix Sum on Trees (DFS Path Sums)
 
+<img width="933" height="368" alt="Screenshot 2025-10-13 at 10 50 43 AM" src="https://github.com/user-attachments/assets/4bf9f6f1-5e0d-44b2-ad9b-289818504472" />
+
+
+
 ### 7. Difference Array (Reverse of Prefix Sum)
 
+<img width="914" height="435" alt="Screenshot 2025-10-13 at 10 51 25 AM" src="https://github.com/user-attachments/assets/ba073aed-9ffb-4508-bd7a-3bba0c876688" />
+
+
 ### 8. Prefix Sum + Binary Search / Sliding Window
+<img width="888" height="317" alt="Screenshot 2025-10-13 at 10 51 43 AM" src="https://github.com/user-attachments/assets/0f6176c0-ee05-4756-a16e-f4bddde6fd00" />
+
+
 
 ### 9. Prefix Sum in Dynamic Programming
+<img width="888" height="317" alt="Screenshot 2025-10-13 at 10 52 00 AM" src="https://github.com/user-attachments/assets/ca86882a-6f5a-4fff-adc9-e07cea9c5a57" />
+
 
 
